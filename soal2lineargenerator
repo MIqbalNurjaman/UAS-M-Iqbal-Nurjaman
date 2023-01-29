@@ -1,6 +1,5 @@
 import java.util.Random;
 
-
 public class soal2lineargenerator {
 
     private int [] data;
